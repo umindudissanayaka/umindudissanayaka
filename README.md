@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **umindu.dissanayaka@gmail.com**
 
-- ⚡ Fun fact **BTW, I am Linux user**
+- ⚡ Fun fact **BTW, I am a Linux user**
 
 </td>
 <td width="50%" align="center">
