@@ -4,9 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+Undergraduate;Freelancer;Tech+Enthusiast"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umindudissanayaka&color=blueviolet" alt="Profile Views" />
-</p>
+
 
 
 <table align="center">
@@ -30,6 +28,10 @@
 </td>
 </tr>
 </table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umindudissanayaka&color=blueviolet" alt="Profile Views" />
+</p>
+
 
 ---
 
