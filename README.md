@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently studying **Machine Learning**
 
-- 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
+- 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
 - 📫 How to reach me **umindu.dissanayaka@gmail.com**
 
