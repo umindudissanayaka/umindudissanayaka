@@ -63,22 +63,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/umindudiss" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="50" />
+  <a href="https://twitter.com/umindudiss" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umindudiss" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/umindu-dissanayaka" target="_blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
+  <a href="https://linkedin.com/in/umindu-dissanayaka" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umindu-dissanayaka" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/26336331" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="50" />
+  <a href="https://stackoverflow.com/users/26336331" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26336331" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/umindudissanayaka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="50" />
+  <a href="https://kaggle.com/umindudissanayaka" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="umindudissanayaka" height="30" width="40" />
   </a>
-  <a href="https://fb.com/umindu.dissanayaka" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
+  <a href="https://fb.com/umindu.dissanayaka" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umindu.dissanayaka" height="30" width="40" />
   </a>
+  <a href="https://instagram.com/umindu.dissanayaka" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umindu.dissanayaka" height="30" width="40" />
+  </a>
+</p>
+
+
 </p>
